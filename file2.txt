@@ -1,0 +1,7 @@
+List Of:
+
+character ~	8
+vowels ~	3
+consonants ~	5
+digits ~	0
+special symbols ~	7
