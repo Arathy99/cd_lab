@@ -1,7 +1,7 @@
 List Of:
 
-character ~	8
-vowels ~	3
-consonants ~	5
-digits ~	0
-special symbols ~	7
+character ~	661
+vowels ~	249
+consonants ~	412
+digits ~	10
+special symbols ~	136
