@@ -7,7 +7,7 @@ keywords
 "void"	"main"	"int"	"if"	
 
 identifiers
-"a"	"0"	"a"	"0"	"a"	"b"	"10"	
+"a"	"0"	"a"	"0"	"a"	"b"	"10"	"how"	"is"	"it"	
 
 relation
 "=="		
