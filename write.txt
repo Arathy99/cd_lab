@@ -1,0 +1,16 @@
+			Lexical Analyzer
+
+Operators
+"="	"+"	"="	
+
+keywords
+"void"	"main"	"int"	"if"	
+
+identifiers
+"a"	"0"	"a"	"0"	"a"	"b"	"10"	
+
+relation
+"=="		
+
+special symbols
+"("		")"		"{"		";"		"("		")"		"{"		";"		"}"		"}"		
